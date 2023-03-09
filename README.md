@@ -1,3 +1,5 @@
+![logo](https://github.com/swatipriya87899/swatipriya87899/blob/main/Profile.png)
+
 <h1 align="center">Hi 👋, I'm Swati Priya</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
