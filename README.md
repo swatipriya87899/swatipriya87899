@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatipriya87899&label=Profile%20views&color=0e75b6&style=flat" alt="swatipriya87899" /> </p>
 
 
-- 🔭 I’m currently working as [Teaching Associate in Geekster](https://www.geekster.in/)
+- 🔭 I’m currently working as [Educator Associate in Geekster](https://www.geekster.in/)
 
 - 👨‍💻 All of my projects are available at [https://www.swati-priya.me/](https://www.swati-priya.me/)
 
